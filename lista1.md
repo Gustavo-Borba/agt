@@ -35,6 +35,10 @@ Faça os seguintes exercícios:
     ```
 
     Conforme visto em sala, faça o teste de mesa, mostrando o estado final da memória e o que foi escrito na tela durante a execução. Considere que os seguintes valores foram informados no terminal: `42` e `51`.
+    
+    .
+    
+    
 
 2. Considere o seguinte algoritmo:
     ```c
